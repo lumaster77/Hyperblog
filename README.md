@@ -1,12 +1,12 @@
-#**Hyperblog :inbox_tray:**
+# **Hyperblog :inbox_tray: :tw-1f4aa:**
 
 ------------
 
 
 #####Un blog creado en el curso de Git y Github de Platzi.
-un exelente curso para aprender el manejo de versiónes y el flujo de trabajo con git y github. "nunca pares de aprender".Plazti[http://platzi.com](http://platzi.com) :green_heart:
+un exelente curso para aprender el manejo de versiónes y el flujo de trabajo con git y github. "nunca pares de aprender".[Plazti](http://platzi.com) :green_heart:
 
-####***Curso de git y github de platzi***
+#### ***Curso de git y github de platzi***
 
 ------------
 - Todos los comandos de Git
@@ -21,4 +21,4 @@ un exelente curso para aprender el manejo de versiónes y el flujo de trabajo co
 ------------
 
 
-Este es un ejemplo de sencillo para crear un README.:smile::tw-1f4aa:
+Este es un ejemplo de sencillo para crear un README.:smile: :tw-1f4aa:
