@@ -1,4 +1,4 @@
-# **Hyperblog :inbox_tray: :tw-1f4aa:**
+# **Hyperblog :monkey_face:**
 
 ------------
 
@@ -21,4 +21,4 @@ un exelente curso para aprender el manejo de versiónes y el flujo de trabajo co
 ------------
 
 
-Este es un ejemplo de sencillo para crear un README.:smile: :tw-1f4aa:
+Este es un ejemplo de sencillo para crear un README.:smile: 
